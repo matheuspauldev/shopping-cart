@@ -20,4 +20,4 @@ Projeto construído utilizando HTML, CSS e Javascript.
 
 ## ©Copyright
 
-O arquivo style.css foi, majoritariamente, escrito pela Trybe. O código fontefoi alterado por mim e foi escrito originalmente pelo aluno Reinaldo Coelho, colega de turma na Trybe.
+O arquivo style.css foi, majoritariamente, escrito pela Trybe. O código fonte foi alterado por mim e foi escrito originalmente pelo aluno Reinaldo Coelho, colega de turma na Trybe.
